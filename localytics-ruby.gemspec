@@ -11,7 +11,7 @@ Gem::Specification.new do |s|
   s.files             = []
 
   s.license           = 'MIT'
-  s.add_dependency('rest-client', '~> 1.7')
+  s.add_dependency('rest-client', '~> 2.0')
   s.add_development_dependency('cutest', '~> 1.2')
   s.add_development_dependency('mocha', '~> 1.1')
 
